@@ -1,3 +1,9 @@
+# MapIt
+
+**An AI-powered tool that generates mind maps based on keywords the user inputs.**
+
+
+
 # ⚡️ esinx/webstack
 
 > The (very opinionated) DX-first webstack monorepo template for the modern web designed by esinx.
