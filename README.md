@@ -1,7 +1,7 @@
 # MapIt
 
 **An AI-powered tool that generates mind maps based on keywords the user inputs.**
-
+Link: [www.mapit.study](www.mapit.study)
 
 
 # ⚡️ esinx/webstack
