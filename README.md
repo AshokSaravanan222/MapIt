@@ -2,7 +2,7 @@
 
 **An AI-powered tool that generates mind maps based on keywords the user inputs.**
 <img width="1440" alt="Screenshot 2023-10-05 at 9 13 25 AM" src="https://github.com/AshokSaravanan222/MapIt/assets/90977640/2d453d3e-795a-4fba-ad07-32bca0d03a44">
-**Link**: [www.mapit.study](www.mapit.study)
+**Link**: [www.mapit.study](http://www.mapit.study)
 
 
 # ⚡️ esinx/webstack
